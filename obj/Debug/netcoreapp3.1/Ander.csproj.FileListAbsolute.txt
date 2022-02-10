@@ -1,0 +1,14 @@
+C:\Users\NATALIA\source\repos\Ander\obj\Debug\netcoreapp3.1\Ander.csproj.AssemblyReference.cache
+C:\Users\NATALIA\source\repos\Ander\obj\Debug\netcoreapp3.1\Ander.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NATALIA\source\repos\Ander\obj\Debug\netcoreapp3.1\Ander.AssemblyInfoInputs.cache
+C:\Users\NATALIA\source\repos\Ander\obj\Debug\netcoreapp3.1\Ander.AssemblyInfo.cs
+C:\Users\NATALIA\source\repos\Ander\obj\Debug\netcoreapp3.1\Ander.csproj.CoreCompileInputs.cache
+C:\Users\NATALIA\source\repos\Ander\bin\Debug\netcoreapp3.1\Ander.exe
+C:\Users\NATALIA\source\repos\Ander\bin\Debug\netcoreapp3.1\Ander.deps.json
+C:\Users\NATALIA\source\repos\Ander\bin\Debug\netcoreapp3.1\Ander.runtimeconfig.json
+C:\Users\NATALIA\source\repos\Ander\bin\Debug\netcoreapp3.1\Ander.runtimeconfig.dev.json
+C:\Users\NATALIA\source\repos\Ander\bin\Debug\netcoreapp3.1\Ander.dll
+C:\Users\NATALIA\source\repos\Ander\bin\Debug\netcoreapp3.1\Ander.pdb
+C:\Users\NATALIA\source\repos\Ander\obj\Debug\netcoreapp3.1\Ander.dll
+C:\Users\NATALIA\source\repos\Ander\obj\Debug\netcoreapp3.1\Ander.pdb
+C:\Users\NATALIA\source\repos\Ander\obj\Debug\netcoreapp3.1\Ander.genruntimeconfig.cache
